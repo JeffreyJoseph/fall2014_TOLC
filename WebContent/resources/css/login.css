@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+h2{
+	text-align:center; position: relative; font-family: Georgia, serif;
+}
+
+input.skills, .tag_me{
+	font-family: Georgia, serif;
+}
